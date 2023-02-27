@@ -1,5 +1,5 @@
 public class TryOut {
-    public void FunctioN(){
-
+    public String FunctioN(){
+        return "second";
     }
 }
