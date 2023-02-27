@@ -1,5 +1,5 @@
 public class TryOut {
-    public void FunctioN(){
-
+    public int FunctioN(){
+        return 0;
     }
 }
